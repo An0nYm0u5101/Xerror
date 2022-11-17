@@ -2,12 +2,12 @@ amqp==1.4.9
 anyjson==0.3.3
 asgi-redis==0.14.0
 asgiref==0.14.0
-autobahn==0.15.0
+autobahn==20.12.3
 billiard==3.3.0.23
 celery==3.1.23
-channels==0.17.0
+channels==2.1.7
 daphne==0.14.2
-Django==1.11.29
+Django==3.2.15
 kombu==3.0.35
 msgpack-python==0.4.7
 pytz==2016.6.1
