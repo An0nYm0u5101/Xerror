@@ -18,3 +18,5 @@ zope.interface==4.2.0
 gunicorn==19.7.1
 openvas_lib
 pymetasploit
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
+twisted>=22.10.0rc1 # not directly required, pinned by Snyk to avoid a vulnerability
