@@ -11,7 +11,7 @@ Django==1.11.29
 kombu==3.0.35
 msgpack-python==0.4.7
 pytz==2016.6.1
-redis==2.10.5
+redis==4.3.6
 six==1.10.0
 txaio==2.5.1
 zope.interface==4.2.0
