@@ -15,6 +15,6 @@ redis==2.10.5
 six==1.10.0
 txaio==2.5.1
 zope.interface==4.2.0
-gunicorn==19.7.1
+gunicorn==21.2.0
 openvas_lib
 pymetasploit
